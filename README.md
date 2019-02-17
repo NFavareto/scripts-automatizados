@@ -3,6 +3,7 @@
 - Nodejs 10.x (x64)
 - VSCode (x64)
 - GIT
+- Slack
 - MongoDB (x64)
 - Putty
 - Chrome (x64)
