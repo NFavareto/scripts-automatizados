@@ -10,6 +10,5 @@
 
 Para rodar o prepara-ambiente-linux.sh user:
 ```
-sudo bash CAMINHO_DO_ARQUIVO
-
+sudo bash arquivo.sh
 ```
