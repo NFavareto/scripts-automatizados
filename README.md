@@ -1,6 +1,5 @@
 # scripts-automatizados 
 >Ambiente Linux
-O .sh instala na sua máquina:
 - Nodejs 10.x (x64)
 - VSCode (x64)
 - GIT
